@@ -1,0 +1,6 @@
+{
+  "name": "FaceMatch - In-Browser Face Recognition & Detection",
+  "description": "Client-side biometric face detection and recognition using 128-D descriptors, landmark analysis, and local IndexedDB enrollment.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
